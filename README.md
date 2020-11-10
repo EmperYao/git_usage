@@ -49,10 +49,10 @@
 
 ![alt](./img/git_remote_show.png)
 
-至此，我们三个代码仓库之间的联系已经创建完了，以下是流程简示：
-![alt](./img/fork.png)
-![alt](./img/clone.png)
-![alt](./img/fetch.png)
+至此，我们三个代码仓库之间的联系已经创建完了，以下是流程简示：  
+![alt](./img/fork.png)  
+![alt](./img/clone.png)  
+![alt](./img/fetch.png)  
 
 ***
 
@@ -112,7 +112,7 @@ PS：这里我们需要选择正确的仓库以及分支，这个很重要哦，
 然后点击提交就ok啦，剩下的则是交给中心仓库的维护者来进行代码review，然后合入中心库就可以了哦，当然，如果中心仓库的维护者发现你的代码不合他的心意，存在编码风格，或者bug之类的问题，可能会将merge请求打回，这个时候就需要你根据问题来进行修改然后重新进行上面的步骤，所以在合入代码之前一定要对自己的代码负责哦
 
 以下就是针对代码提交过程的简示：  
-![alt](./img/git_commit.png)
-![alt](./img/git_push.png)
-![alt](./img/git_merge.png)
-![alt](./img/result.png)
+![alt](./img/git_commit.png)  
+![alt](./img/git_push.png)  
+![alt](./img/git_merge.png)  
+![alt](./img/result.png)  
